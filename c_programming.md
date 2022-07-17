@@ -5,3 +5,5 @@
 * My C book recomendation
   * Modern C for Absolute Beginners_ A Friendly Introduction to the C Programming Language Slobodan Dmitrović Apress
   * https://iso-9899.info/wiki/Books
+
+* https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
